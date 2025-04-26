@@ -1,4 +1,4 @@
-aggSubs: https://raw.githubusercontent.com/cmliu/cmliu/main/SubsCheck-UR
+aggSubs: https://raw.githubusercontent.com/qjlxg/tor/refs/heads/main/data/subscribes.txt
 subscriptions:
 - https://raw.githubusercontent.com/qjlxg/tor/refs/heads/main/all_clash.txt
 
