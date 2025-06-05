@@ -1,4 +1,4 @@
-impot requests
+import requests
 import base64
 import yaml
 import json
