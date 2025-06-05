@@ -21,7 +21,7 @@ from utils.network_utils import HttpRequestTool
 
 """# 订阅链接列表
 links = [
-    "https://github.com/qjlxg/vt/raw/refs/heads/main/data/all_clash.yaml",
+    "https://github.com/qjlxg/vt/raw/refs/heads/main/data/all_clash.yaml"
     
 ]
 
